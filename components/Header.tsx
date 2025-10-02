@@ -55,7 +55,7 @@ const Header = () => {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
               <Image
-                src="/perfect-temp-logo-transparent.png"
+                src="./perfect-temp-logo-transparent.png"
                 alt="Perfect Temp - Refrigeration, Heating & Air Conditioning"
                 width={280}
                 height={120}

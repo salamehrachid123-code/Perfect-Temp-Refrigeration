@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center mb-6">
               <Image
-                src="/perfect-temp-logo-transparent.png"
+                src="./perfect-temp-logo-transparent.png"
                 alt="Perfect Temp - Refrigeration, Heating & Air Conditioning"
                 width={120}
                 height={40}
